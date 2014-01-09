@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToDoAndDont</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_a_task">Enter a Task</string>
+    <string name="submit">Submit</string>    
+
+</resources>
